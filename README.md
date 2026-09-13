@@ -1,72 +1,43 @@
 <div align="center">
 
-# Everclear
+# 👋 Hi, I'm Everclear
 
-### AI & Systems Architecture Expert
+**AI & Systems Architecture Expert**
 
-**Intelligent systems. Clear architecture. Reliable execution.**
+I build AI applications and the reliable systems behind them.
 
-I turn AI capabilities into practical systems, connecting model intelligence with the architecture that makes it useful at scale.
-
-[Explore my work](https://github.com/everclear077?tab=repositories) &nbsp; / &nbsp; [Get in touch](mailto:ever3am@gmail.com)
+[𝕏 @LukaDDD077](https://x.com/LukaDDD077) &nbsp; · &nbsp; [📬 Email](mailto:ever3am@gmail.com) &nbsp; · &nbsp; [💻 Repositories](https://github.com/everclear077?tab=repositories)
 
 </div>
 
 ---
 
-## Expertise
+## ⚡ What I Do
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🧠 **LLM Applications** — Retrieval, context engineering, and model integration.
+- 🤖 **AI Agents** — Tool discovery, orchestration, and workflow automation.
+- 🏗️ **Systems Architecture** — Distributed services, APIs, messaging, and data consistency.
+- 🛡️ **Reliable Delivery** — Evaluation, observability, performance, and fault tolerance.
 
-### Artificial Intelligence
+## 🚀 Featured Project
 
-Designing the path from models to applications.
+### [Progressive Tools for DeepSeek Harness ↗](https://github.com/everclear077/dsh-progressive-tools)
 
-- **LLM applications** &mdash; retrieval, context engineering, and tool integration
-- **AI agents** &mdash; orchestration, workflow design, and execution boundaries
-- **AI engineering** &mdash; evaluation, observability, and dependable delivery
+Discover and run tools without overwhelming the model's context.
 
-</td>
-<td width="50%" valign="top">
+🔎 **Searchable tool catalog** &nbsp; · &nbsp; 🔗 **Pipeline execution** &nbsp; · &nbsp; ⚡ **Context cache preservation**
 
-### Systems Architecture
+## 🧭 How I Build
 
-Building the foundation for systems that last.
-
-- **Distributed systems** &mdash; service boundaries, messaging, and data consistency
-- **Scalable platforms** &mdash; modular design, APIs, and performance
-- **Reliability** &mdash; fault tolerance, operational visibility, and maintainability
-
-</td>
-</tr>
-</table>
-
-## How I Build
-
-**Start with the problem.** Translate real requirements into clear system boundaries and explicit tradeoffs.
-
-**Design for production.** Treat latency, cost, security, and failure recovery as architectural concerns from the beginning.
-
-**Keep complexity purposeful.** Prefer simple interfaces, composable components, and decisions that are easy to explain.
-
-**Measure and iterate.** Use evaluation and operational feedback to improve both AI behavior and system quality.
-
-## Featured Work
-
-### [Progressive Tools for DeepSeek Harness](https://github.com/everclear077/dsh-progressive-tools)
-
-Progressive tool discovery for AI workflows, combining a small, stable interface with a searchable catalog and pipeline execution while preserving the context cache.
-
-**Focus:** Agent tooling &nbsp; / &nbsp; Context efficiency &nbsp; / &nbsp; Execution design
+**🎯 Solve the right problem.** Define requirements and system boundaries first.  
+**🧩 Keep it simple.** Use clear interfaces and composable components.  
+**📈 Build for production.** Design for latency, cost, security, and recovery.  
+**🔬 Measure and improve.** Let evaluations and real usage guide decisions.
 
 ---
 
-<div align="center">
+### 🤝 Let's Connect
 
-**Let's talk about AI systems and the architecture behind them.**
+Interested in AI agents, LLM applications, or systems architecture? Let's talk.
 
-[ever3am@gmail.com](mailto:ever3am@gmail.com)
-
-</div>
+**[𝕏 Find me on X — @LukaDDD077](https://x.com/LukaDDD077)** &nbsp; · &nbsp; **[📬 ever3am@gmail.com](mailto:ever3am@gmail.com)**

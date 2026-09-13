@@ -21,6 +21,12 @@ I build AI applications and the reliable systems behind them.
 
 ## 🚀 Featured Projects
 
+### [🌐 Awesome AI X Accounts ↗](https://github.com/everclear077/awesome-ai-x-accounts)
+
+Find AI researchers, builders, labs, and tech voices on X through a curated, topic-based directory.
+
+🗂️ **Topic categories** &nbsp; · &nbsp; 💡 **Reasons to follow** &nbsp; · &nbsp; 🔗 **Source links**
+
 ### [🎓 Codex Learning Plugin ↗](https://github.com/everclear077/codex-learning-plugin)
 
 Turn learning goals into guided practice and real projects with a community plugin for Codex.

@@ -19,7 +19,13 @@ I build AI applications and the reliable systems behind them.
 - 🏗️ **Systems Architecture** — Distributed services, APIs, messaging, and data consistency.
 - 🛡️ **Reliable Delivery** — Evaluation, observability, performance, and fault tolerance.
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### [🎓 Codex Learning Plugin ↗](https://github.com/everclear077/codex-learning-plugin)
+
+Turn learning goals into guided practice and real projects with a community plugin for Codex.
+
+🧠 **Core concepts** &nbsp; · &nbsp; 🎯 **Guided practice** &nbsp; · &nbsp; 🗣️ **Teach-back** &nbsp; · &nbsp; 🔁 **Spaced recall**
 
 ### [Progressive Tools for DeepSeek Harness ↗](https://github.com/everclear077/dsh-progressive-tools)
 

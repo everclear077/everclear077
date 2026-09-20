@@ -4,7 +4,7 @@
 
 **AI & Systems Architecture Expert**
 
-I build AI applications and the reliable systems behind them.
+I build AI applications and the reliable systems behind them — agents, tooling, and production-ready infrastructure.
 
 [𝕏 @LukaDDD077](https://x.com/LukaDDD077) &nbsp; · &nbsp; [📬 Email](mailto:ever3am@gmail.com) &nbsp; · &nbsp; [💻 Repositories](https://github.com/everclear077?tab=repositories)
 
@@ -21,23 +21,17 @@ I build AI applications and the reliable systems behind them.
 
 ## 🚀 Featured Projects
 
-### [🌐 Awesome AI X Accounts ↗](https://github.com/everclear077/awesome-ai-x-accounts)
+### [Progressive Tools for DeepSeek Harness ↗](https://github.com/everclear077/dsh-progressive-tools)
 
-Find AI researchers, builders, labs, and tech voices on X through a curated, topic-based directory.
+Discover and run tools without overwhelming the model's context.
 
-🗂️ **Topic categories** &nbsp; · &nbsp; 💡 **Reasons to follow** &nbsp; · &nbsp; 🔗 **Source links**
+🔎 **Searchable tool catalog** &nbsp; · &nbsp; 🔗 **Pipeline execution** &nbsp; · &nbsp; ⚡ **Context cache preservation**
 
 ### [🎓 Codex Learning Plugin ↗](https://github.com/everclear077/codex-learning-plugin)
 
 Turn learning goals into guided practice and real projects with a community plugin for Codex.
 
 🧠 **Core concepts** &nbsp; · &nbsp; 🎯 **Guided practice** &nbsp; · &nbsp; 🗣️ **Teach-back** &nbsp; · &nbsp; 🔁 **Spaced recall**
-
-### [Progressive Tools for DeepSeek Harness ↗](https://github.com/everclear077/dsh-progressive-tools)
-
-Discover and run tools without overwhelming the model's context.
-
-🔎 **Searchable tool catalog** &nbsp; · &nbsp; 🔗 **Pipeline execution** &nbsp; · &nbsp; ⚡ **Context cache preservation**
 
 ## 🧭 How I Build
 

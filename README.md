@@ -21,11 +21,17 @@ I build AI applications and the reliable systems behind them — agents, tooling
 
 ## 🚀 Featured Projects
 
-### [Progressive Tools for DeepSeek Harness ↗](https://github.com/everclear077/dsh-progressive-tools)
+### [Fanal ↗](https://github.com/everclear077/Fanal)
 
-Discover and run tools without overwhelming the model's context.
+Watches the coding agents on your computer and shows at the top of the screen when a task is running or waiting on you.
 
-🔎 **Searchable tool catalog** &nbsp; · &nbsp; 🔗 **Pipeline execution** &nbsp; · &nbsp; ⚡ **Context cache preservation**
+📌 **Top-of-screen notch** &nbsp; · &nbsp; 🚦 **Running or waiting on you** &nbsp; · &nbsp; 🪟 **Brings the agent window forward**
+
+### [MeetScribe for DeepSeek Harness ↗](https://github.com/everclear077/dsh-meetscribe)
+
+A DeepSeek Harness plugin for local meeting transcription and Word minutes, with Chinese / mixed Chinese-English recognition, speaker management, and a minutes workbench.
+
+🎤 **Local transcription** &nbsp; · &nbsp; 👥 **Speaker management** &nbsp; · &nbsp; 📄 **Word minutes**
 
 ### [🎓 Codex Learning Plugin ↗](https://github.com/everclear077/codex-learning-plugin)
 
